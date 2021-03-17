@@ -1,4 +1,6 @@
-### Hi there Sameer this side 👋
+### Hi there I'm Sameer 👋
+<a href="https://twitter.com/boghani_sameer?lang=en"><img src="https://img.shields.io/twitter/follow/sameer_boghani.svg?style=social" /> </a>
+<br>
 
 <!--
 **sameerboghani/SameerBoghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
