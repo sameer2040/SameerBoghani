@@ -1,10 +1,5 @@
 ### Hi there I'm Sameer 👋
-<a href="https://twitter.com/boghani_sameer?lang=en">
-  <img align="left" alt="sameer | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sameer-boghani-564a76192/">
-  <img align="left" alt="sameer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 </br>
 </br>
@@ -23,5 +18,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-
+</br>
+<a href="https://www.facebook.com/sameer.boghani.3">
+  <img align="left" alt="sameer's LinkedIN" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/sameer_boghani/?hl=en">
+  <img align="left" alt="sameer's LinkedIN" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://twitter.com/boghani_sameer?lang=en">
+  <img align="left" alt="sameer | Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sameer-boghani-564a76192/">
+  <img align="left" alt="sameer's LinkedIN"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
