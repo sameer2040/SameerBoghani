@@ -22,10 +22,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
  </br>
  
- **Social Media**
- 
- 
- </br>
+ **Find Me On**
+  </br>
  
  
 <a href="https://www.facebook.com/sameer.boghani.3">
